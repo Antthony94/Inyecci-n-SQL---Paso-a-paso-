@@ -1,6 +1,6 @@
 # Inyección-SQL: Paso a paso
 Para esta práctica se ha desarrollado un prototipo de Tienda Online utilizando Python junto con una base de datos SQLite. El objetivo es demostrar de forma práctica y comprensible qué es una Inyección SQL (SQLi) y por qué supone un problema grave de seguridad.
-#  Práctica Final: Inyección SQL (SQLi)
+#  Práctica: Inyección SQL (SQLi)
 
 ## Tienda Online: Aplicación Vulnerable vs. Aplicación Segura
 
